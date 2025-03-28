@@ -26,3 +26,8 @@ Premium resources we can buy is Akhsay Saini's Namaste System Design course - it
 ## Web Rendering Techniques
 ## Data Modelling
 ## Storage Techniques
+## Design patterns
+Articles and videos related to design patterns
+1. [DevSage JS design pattern yt](https://www.youtube.com/watch?v=kuirGzhGhyw&list=PLFKDYTlP3abzwWleHq1WHcKyi8nCPY74s)
+2. Article [Patterns.dev](https://www.patterns.dev/)
+3. [Refactoring Guru](https://refactoring.guru/design-patterns)
